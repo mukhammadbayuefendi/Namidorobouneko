@@ -6,7 +6,7 @@
     <body>
         <table cellspacing="20">
             <tr>
-                <td><img src="[file:///C:/Users/user/web/images/nami.jpg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fe1.pxfuel.com%2Fdesktop-wallpaper%2F166%2F999%2Fdesktop-wallpaper-nami-bounty-wanted-poster-one-piece-in-2021-nami-wanted-poster.jpg&tbnid=-EaqHxrV_AO1jM&vet=12ahUKEwj-iuvb7ZD-AhVxwDgGHYjfBJEQMygDegUIARC7AQ..i&imgrefurl=https%3A%2F%2Fwww.pxfuel.com%2Fen%2Fdesktop-wallpaper-ncssx&docid=g6cn-NAtfi0LXM&w=850&h=1202&q=nami%20bounty&ved=2ahUKEwj-iuvb7ZD-AhVxwDgGHYjfBJEQMygDegUIARC7AQ)" alt="nami bounty"></td>
+                <td><img src="file:///C:/Users/user/web/images/nami.jpg" alt="nami bounty"></td>
                 <td><h1>its Nami</h1>
                     <p><em>The Pirates</em></p>
                     <p>$66.000.000 Price Head 💛 of The <a href="https://www.youtube.com/shorts/rUrkYqd-UPM">Mugiwara team</p></a></td>
@@ -62,7 +62,7 @@
                 <label for="message">Age__________:</label>
                 <input type="number" name="your age" value="">
             </div>
-            <div class="date client">
+            <div class="date clien">
                 <label for="message">Your message__:</label><br>
                 <textarea name="type" id="submit" cols="35" rows="6"></textarea><br>
                 <input type="submit" name="value" id="re">
