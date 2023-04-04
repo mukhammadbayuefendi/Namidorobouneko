@@ -11,7 +11,7 @@
                     <p>$66.000.000 Price Head 💛 of The <a href="https://www.youtube.com/shorts/rUrkYqd-UPM">Mugiwara team</p></a></td>
             </tr>
         </table aria-setsize="2">
-    </body>
+    <body>
         <hr>
         <h3>Pirates and Navigator</h3>
         <ul>
@@ -72,4 +72,5 @@
         <a href="file:///C:/Users/user/web/images/hoby.html">@hoby</a>
         <a href="file:///C:/Users/user/web/html/img/personalsite.html">@nami</a>
         <a href="file:///C:/Users/user/web/images/contactnami.html">@contactnami</td></a>
+     </body>
 </html>
