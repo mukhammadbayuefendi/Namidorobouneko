@@ -1,7 +1,6 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Nami Personal Site</title>
     </head>
     <body>
         <table cellspacing="20">
@@ -73,5 +72,4 @@
         <a href="file:///C:/Users/user/web/images/hoby.html">@hoby</a>
         <a href="file:///C:/Users/user/web/html/img/personalsite.html">@nami</a>
         <a href="file:///C:/Users/user/web/images/contactnami.html">@contactnami</td></a>
-    </body>
 </html>
