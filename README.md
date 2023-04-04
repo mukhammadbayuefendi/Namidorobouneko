@@ -3,14 +3,14 @@
         <meta charset="utf-8">
     </head>
     <body>
-        <table cellspacing="20">
+        <table aria-setsize="2">
             <tr>
                 <td><img src="file:///C:/Users/user/web/images/nami.jpg" alt="nami bounty"></td>
                 <td><h1>its Nami</h1>
                     <p><em>The Pirates</em></p>
                     <p>$66.000.000 Price Head 💛 of The <a href="https://www.youtube.com/shorts/rUrkYqd-UPM">Mugiwara team</p></a></td>
             </tr>
-        </table>
+        </table aria-setsize="2">
     </body>
         <hr>
         <h3>Pirates and Navigator</h3>
@@ -20,7 +20,7 @@
         </ul>
         <hr>
         <h3>Work Experience</h3>
-        <table cellspacing="10">
+        <table aria-setsize="2">
             <thead aria-setsize="2">
             <tr>
                 <td>Fishman Pirates</td>
@@ -35,7 +35,7 @@
         <br>
         <hr>
         <h3>Skills</h3>
-        <table cellspacing="10">
+        <table aria-setsize="2">
             <tr>
                 <td>Survival</td>
                 <td>🍑🍑🍑🍑🍑</td>
@@ -48,7 +48,7 @@
                 <td>Emotional iq</td>
                 <td>🍑🍑🍑🍑🍑</td>
             </tr>
-        </table>
+        </table aria-setsize="2">
         <br>
         <hr>
         <h3>Contact Me!</h3>
